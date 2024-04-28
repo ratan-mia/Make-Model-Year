@@ -1,0 +1,212 @@
+{
+    "cars": {
+        "TOYOTA": [
+            "COROLLA",
+            "CAMRY",
+            "RAV4",
+            "PRIUS",
+            "HIGHLANDER"
+        ],
+        "FORD": [
+            "F-150",
+            "MUSTANG",
+            "ESCAPE",
+            "EXPLORER",
+            "FUSION"
+        ],
+        "HONDA": [
+            "CIVIC",
+            "ACCORD",
+            "CR-V",
+            "PILOT",
+            "FIT"
+        ],
+        "CHEVROLET": [
+            "SILVERADO",
+            "MALIBU",
+            "EQUINOX",
+            "TAHOE",
+            "CAMARO"
+        ],
+        "NISSAN": [
+            "ALTIMA",
+            "SENTRA",
+            "ROGUE",
+            "LEAF",
+            "PATHFINDER"
+        ],
+        "BMW": [
+            "3 SERIES",
+            "5 SERIES",
+            "X5",
+            "X3",
+            "M3"
+        ],
+        "MERCEDES-BENZ": [
+            "C-CLASS",
+            "E-CLASS",
+            "S-CLASS",
+            "GLC",
+            "GLE"
+        ],
+        "VOLKSWAGEN": [
+            "GOLF",
+            "PASSAT",
+            "TIGUAN",
+            "JETTA",
+            "BEETLE"
+        ],
+        "HYUNDAI": [
+            "SONATA",
+            "ELANTRA",
+            "SANTA FE",
+            "TUCSON",
+            "IONIQ"
+        ],
+        "KIA": [
+            "SORENTO",
+            "SPORTAGE",
+            "OPTIMA",
+            "RIO",
+            "SOUL"
+        ],
+        "PEUGEOT": [
+            "208",
+            "308",
+            "508",
+            "2008",
+            "3008"
+        ],
+        "AUDI": [
+            "A4",
+            "A6",
+            "Q5",
+            "Q7",
+            "TT"
+        ],
+        "RENAULT": [
+            "CLIO",
+            "MEGANE",
+            "KADJAR",
+            "SCENIC",
+            "CAPTUR"
+        ],
+        "SKODA": [
+            "OCTAVIA",
+            "SUPERB",
+            "FABIA",
+            "KODIAQ",
+            "KAROQ"
+        ],
+        "MAZDA": [
+            "CX-5",
+            "MAZDA3",
+            "MAZDA6",
+            "CX-9",
+            "MX-5"
+        ],
+        "SUBARU": [
+            "OUTBACK",
+            "FORESTER",
+            "IMPREZA",
+            "CROSSTREK",
+            "LEGACY"
+        ],
+        "TESLA": [
+            "MODEL S",
+            "MODEL 3",
+            "MODEL X",
+            "MODEL Y"
+        ],
+        "VOLVO": [
+            "XC90",
+            "XC60",
+            "S90",
+            "V60",
+            "XC40"
+        ],
+        "JAGUAR": [
+            "XE",
+            "XF",
+            "F-PACE",
+            "E-PACE",
+            "F-TYPE"
+        ],
+        "LAND ROVER": [
+            "RANGE ROVER",
+            "DISCOVERY",
+            "DEFENDER",
+            "RANGE ROVER SPORT",
+            "RANGE ROVER EVOQUE"
+        ],
+        "MINI": [
+            "COOPER",
+            "COUNTRYMAN",
+            "CLUBMAN",
+            "CONVERTIBLE"
+        ],
+        "FIAT": [
+            "500",
+            "PANDA",
+            "500X",
+            "124 SPIDER",
+            "TIPO"
+        ],
+        "PORSCHE": [
+            "911",
+            "CAYENNE",
+            "MACAN",
+            "PANAMERA",
+            "TAYCAN"
+        ],
+        "MITSUBISHI": [
+            "OUTLANDER",
+            "LANCER",
+            "ECLIPSE CROSS",
+            "PAJERO",
+            "MIRAGE"
+        ],
+        "LEXUS": [
+            "RX",
+            "ES",
+            "NX",
+            "IS",
+            "LS"
+        ],
+        "INFINITI": [
+            "Q50",
+            "QX60",
+            "QX50",
+            "QX80",
+            "Q60"
+        ],
+        "ACURA": [
+            "MDX",
+            "RDX",
+            "TLX",
+            "ILX",
+            "NSX"
+        ],
+        "CADILLAC": [
+            "ESCALADE",
+            "XT5",
+            "CTS",
+            "ATS",
+            "CT6"
+        ],
+        "DODGE": [
+            "CHALLENGER",
+            "CHARGER",
+            "DURANGO",
+            "GRAND CARAVAN",
+            "JOURNEY"
+        ],
+        "LINCOLN": [
+            "NAVIGATOR",
+            "CONTINENTAL",
+            "MKC",
+            "MKZ",
+            "AVIATOR"
+        ]
+    }
+}
